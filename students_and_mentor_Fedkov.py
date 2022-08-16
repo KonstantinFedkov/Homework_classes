@@ -142,4 +142,4 @@ best_student.rate_course(cool_mentor, 'Python', 2)
 best_student.rate_course(cool_mentor, 'Python', 3)
 
 print(best_student)
-# print(cool_mentor)
+print(cool_mentor)
